@@ -31,13 +31,6 @@ if(key == 's') z += 5; //mendekat
 
 else if (key == 'w') z -= 5; //menjauh
 
-else if (key == 'a') {
-    x=1;
-}
-else if (key == 'd') {
-    x=-1;
-}
-
 else if (key == 'x') { //rotasi sumbu x
 
 x1 = 1;
